@@ -1,4 +1,4 @@
-#Workshop Fábrica de Software 2023.2
+# Workshop Fábrica de Software 2023.2
 Repositório destinado aos projetos da semana de workshop da fábrica de software 2023.2
 
 ## Desafio dia 01:
@@ -27,7 +27,7 @@ Deve-se chegar à seguinte tabela:
 ![image](https://github.com/DjalmaRangel/workshop_fs_23_2/assets/127499514/a1ea8816-2d31-4b2b-89e7-a812348402fd)
 
 
-##Desafio dia 03:
+## Desafio dia 03:
 Proposta de Atividade (Google Colab):
 
 Entender os dados fornecidos, para isso, explore-os, use as funções vistas, com um único objetivo de compreender seus dados, e assim, extrair o maior valor possível deles. Sinta-se à vontade para ir comentando seus passos e todo o seu entendimento. Por fim, você deve:
@@ -38,7 +38,7 @@ Entender os dados fornecidos, para isso, explore-os, use as funções vistas, co
 - Agrupe o banco de dados a partir da coluna referente à partificipação em um curso preparatório para os testes, e plote um gráfico com a nota média em Leitura para cada grupo disponível.
 
 
-##Desafio dia 04:
+## Desafio dia 04:
 MySQL
 
 - Crie 3 tabelas com 3-5 colunas, utilizando no mínimo 3 tipos diferentes de variáveis no total.
@@ -50,7 +50,7 @@ MySQL
 - Baixe um arquivo CSV do site https://www.kaggle.com/eimporte-oparaoMySQL. Em seguida, mostre o conteúdo da tabela. Obs: É necessário que todo conteúdo das tabelas tenha sentido lógico.
 
 
-##Desafio dia 05:
+## Desafio dia 05:
 Power BI
 
 - Escolha um Dataset no Kaggle.
@@ -59,8 +59,8 @@ Power BI
 - Apresente as soluções encontradas com sua análise.
 
 
-##Desafio Final:
-###EXCEL
+##D esafio Final:
+### EXCEL
 
 - Junte na coluna de Verdadeiro Número do Pagamento, o Número do Documento + Número do Pagamento, mas com um "_" como delimitador entre eles.
 - Junte na coluna Detalhes Bancários, o código da Coluna Número de Registro da Empresa, o código da Coluna Número da Conta, e o código da Coluna Verificação, mas com um "-" como delimitador entre cada um deles.
@@ -70,7 +70,7 @@ Power BI
 - Nota-se que na Coluna Valor Pago, os números presentes nela, são na verdade Strings/Textos e não podem ser transformados para valores numéricos realmente por causa de um tipo de espaçamento que não pode ser removido através da função TIRAR E ARRUMAR. Sendo assim, extraia os valores monetários da coluna Valor Pago, para a Coluna Valor e utilize a função VALOR para transformar em números de fato.
 - Utilize o PROCV na planilha 2, mas utilizando os valores de referência presentes da Ref Planilha 2.
 
-###POWER BI
+### POWER BI
 
 - Importe o Dataset tratado em Excel para o Power BI.
 - No Power BI, verifique a tipagem das colunas do seu Dataset.
@@ -78,7 +78,7 @@ Power BI
 - Com o Dashboard pronto, discorra sobre as conclusões da sua análise.
 - Sinta-se à vontade para analisar qualquer elemento da tabela e criar quantos gráficos quiser.
 
-###SQL
+### SQL
 
 - Crie 3-4 tabelas e utilize 3 tipos de variáveis no total (INT, VARCHAR e uma a sua escolha), não esqueça da chave primária.
 - Adicione uma coluna em ao menos 1 tabela.
@@ -88,7 +88,7 @@ Power BI
 Obs1: é necessário ter sentido lógico entre as tabelas, atributos e dados inseridos.
 Obs2: as tabelas precisam ser sobre temas diferentes do desafio diário.
 
-###PYTHON
+### PYTHON
 
 Banco de Dados
 Para execução do desafio, você deve criar um notebook (.ipynb), importar as bibliotecas Pandas e Matplotlib, e o banco de dados do link abaixo: Link: BANCO DE DADOS
